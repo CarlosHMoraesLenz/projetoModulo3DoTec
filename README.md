@@ -1,6 +1,6 @@
 # Sistema de Cadastro Veterinário
 
-Este projeto foi fruto do conhecimento adquirido no curso tecnico de informatica do Senac-RS, em paarceria com meu colega Lucas Oliveira. O sistema tem como objetivo cadastrar, pesquisar e excluir animais de estimação, tendo 2 niveis de usuários, onde o administrador pode cadastrar, pesquisar e excluir tais usuários.
+Este projeto foi fruto do conhecimento adquirido no curso tecnico de informatica do Senac-RS, em paarceria com meu colega Lucas Silva. O sistema tem como objetivo cadastrar, pesquisar e excluir animais de estimação, tendo 2 niveis de usuários, onde o administrador pode cadastrar, pesquisar e excluir tais usuários.
 
 ## Diagrama UML
 
